@@ -1,2 +1,2 @@
-nombre= "Hector"
+nombre= "virginia"
 print("hola" + nombre)
